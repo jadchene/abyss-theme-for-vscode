@@ -47,8 +47,13 @@
     "editorGroupHeader.tabsBackground": "#050505",
     "tab.activeBackground": "#0A0A0A",
     "tab.activeForeground": "#FFFFFF",
+    "tab.selectedForeground": "#FFFFFF",
+    "tab.unfocusedActiveForeground": "#FFFFFF",
     "tab.inactiveBackground": "#050505",
-    "tab.inactiveForeground": "#7A7A7A",
+    "tab.inactiveForeground": "#FFFFFF",
+    "tab.unfocusedInactiveForeground": "#FFFFFF",
+    "tab.hoverForeground": "#FFFFFF",
+    "tab.unfocusedHoverForeground": "#FFFFFF",
     "tab.border": "#1E1E1E",
     "tab.activeBorder": "#242424",
     "tab.unfocusedActiveBorder": "#1E1E1E",
@@ -131,6 +136,16 @@
     "peekViewResult.background": "#000000",
     "peekViewResult.selectionBackground": "#111111",
     "peekViewTitle.background": "#000000",
-    "pickerGroup.border": "#2A2A2A"
+    "pickerGroup.border": "#2A2A2A",
+    "gitDecoration.addedResourceForeground": "#FFFFFF",
+    "gitDecoration.modifiedResourceForeground": "#FFFFFF",
+    "gitDecoration.deletedResourceForeground": "#FFFFFF",
+    "gitDecoration.renamedResourceForeground": "#FFFFFF",
+    "gitDecoration.stageModifiedResourceForeground": "#FFFFFF",
+    "gitDecoration.stageDeletedResourceForeground": "#FFFFFF",
+    "gitDecoration.untrackedResourceForeground": "#FFFFFF",
+    "gitDecoration.ignoredResourceForeground": "#FFFFFF",
+    "gitDecoration.conflictingResourceForeground": "#FFFFFF",
+    "gitDecoration.submoduleResourceForeground": "#FFFFFF"
   }
 }

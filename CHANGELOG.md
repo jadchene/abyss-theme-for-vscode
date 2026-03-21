@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.1.5
+
+- Set all `gitDecoration.*ResourceForeground` colors to pure white so Git tab decorations do not tint labels gray.
+
+## 1.1.4
+
+- Added supported unfocused and hover tab foreground colors to keep tab labels pure white after focus changes.
+
+## 1.1.3
+
+- Changed inactive tab labels to pure white instead of gray.
+- Confirmed the issue was theme tab foreground settings, not user color overrides.
+
+## 1.1.2
+
+- Removed the unsupported `tab.unfocusedSelectedForeground` theme color key.
+- Kept selected and active tab labels pure white with supported color keys.
+
+## 1.1.1
+
+- Fixed tab label foreground to stay pure white in newer VS Code tab states.
+
 ## 1.1.0
 
 - Refined panel, menu, quick input, settings, and chat-related theme colors.
