@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.6
+
+- Use VS Code custom window controls so the minimize, maximize, and close area inherits the pure black title bar background in the latest VS Code.
+
 ## 1.1.5
 
 - Set all `gitDecoration.*ResourceForeground` colors to pure white so Git tab decorations do not tint labels gray.

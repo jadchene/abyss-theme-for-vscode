@@ -2,7 +2,7 @@
   "name": "pure-black-theme",
   "displayName": "My Pure Black Theme",
   "description": "A VS Code theme with a pure black interface, a pure black editor background, and default Dark+ syntax highlighting.",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "publisher": "local",
   "license": "MIT",
   "engines": {
@@ -18,6 +18,9 @@
     "monochrome"
   ],
   "contributes": {
+    "configurationDefaults": {
+      "window.controlsStyle": "custom"
+    },
     "themes": [
       {
         "label": "My Pure Black Theme",
