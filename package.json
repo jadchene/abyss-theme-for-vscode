@@ -1,10 +1,18 @@
 {
-  "name": "pure-black-theme",
-  "displayName": "My Pure Black Theme",
-  "description": "A VS Code theme with a pure black interface, a pure black editor background, and default Dark+ syntax highlighting.",
-  "version": "1.1.7",
+  "name": "abyss-theme-for-vscode",
+  "displayName": "Abyss Theme for VS Code",
+  "description": "A pure-black VS Code theme with a consistent workbench and familiar Dark+ syntax highlighting.",
+  "version": "1.1.8",
   "publisher": "local",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jadchene/abyss-theme-for-vscode.git"
+  },
+  "homepage": "https://github.com/jadchene/abyss-theme-for-vscode#readme",
+  "bugs": {
+    "url": "https://github.com/jadchene/abyss-theme-for-vscode/issues"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -23,9 +31,9 @@
     },
     "themes": [
       {
-        "label": "My Pure Black Theme",
+        "label": "Abyss Theme for VS Code",
         "uiTheme": "vs-dark",
-        "path": "./themes/pure-black-color-theme.json"
+        "path": "./themes/abyss-color-theme.json"
       }
     ]
   }

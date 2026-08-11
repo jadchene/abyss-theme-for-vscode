@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.8
+
+- Renamed the extension and theme to Abyss Theme for VS Code.
+- Updated repository metadata, documentation, and theme resource naming.
+
 ## 1.1.7
 
 - Increased text-selection contrast in input fields with a neutral gray highlight that matches the pure-black theme.

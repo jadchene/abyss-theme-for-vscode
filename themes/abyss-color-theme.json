@@ -1,5 +1,5 @@
 {
-  "name": "My Pure Black Theme",
+  "name": "Abyss Theme for VS Code",
   "type": "dark",
   "include": "./dark_plus.json",
   "colors": {
