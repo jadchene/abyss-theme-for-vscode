@@ -9,7 +9,7 @@
     "descriptionForeground": "#D0D0D0",
     "errorForeground": "#FFFFFF",
     "icon.foreground": "#FFFFFF",
-    "selection.background": "#1A1A1A",
+    "selection.background": "#444444",
     "textBlockQuote.background": "#000000",
     "textBlockQuote.border": "#2A2A2A",
     "textCodeBlock.background": "#000000",

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.7
+
+- Increased text-selection contrast in input fields with a neutral gray highlight that matches the pure-black theme.
+
 ## 1.1.6
 
 - Use VS Code custom window controls so the minimize, maximize, and close area inherits the pure black title bar background in the latest VS Code.
