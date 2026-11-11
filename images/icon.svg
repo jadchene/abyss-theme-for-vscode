@@ -1,0 +1,23 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="rim" x1="8" y1="8" x2="32" y2="34" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#77797C"/>
+            <stop offset="0.5" stop-color="#242528"/>
+            <stop offset="1" stop-color="#55575A"/>
+        </linearGradient>
+        <linearGradient id="shadow" x1="24" y1="8" x2="31" y2="28" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#101113"/>
+            <stop offset="0.45" stop-color="#54565B"/>
+            <stop offset="1" stop-color="#08090A"/>
+        </linearGradient>
+        <linearGradient id="silver" x1="11" y1="9" x2="29" y2="31" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFFFFF"/>
+            <stop offset="0.35" stop-color="#C8C9CC"/>
+            <stop offset="0.65" stop-color="#F4F4F5"/>
+            <stop offset="1" stop-color="#77797E"/>
+        </linearGradient>
+    </defs>
+    <rect x="0.75" y="0.75" width="38.5" height="38.5" rx="9" fill="#030303" stroke="url(#rim)" stroke-width="0.5"/>
+    <path d="M24.7 7.8C31.5 9.2 34.8 15.6 33.1 22.6C32.3 26 30.3 29.1 27.5 31C31.3 27.3 32.7 22.7 31.7 18.1C30.6 12.7 27.5 9.4 22.8 8.2Z" fill="url(#shadow)"/>
+    <path d="M26.1 8C20.2 4.5 13.2 6.6 9.2 11.6C4.9 17 5 24.1 9.5 29.2C13.8 34.1 20.7 35 26.2 31.6C29.4 29.6 31.8 26.3 32.7 22.8C30.6 27.7 26.5 31.2 21.5 31.7C15.6 32.3 10.9 28.6 9.4 23.4C7.8 17.9 10.2 12.3 14.7 9.4C18.1 7.2 22.1 6.8 26.1 8Z" fill="url(#silver)"/>
+</svg>

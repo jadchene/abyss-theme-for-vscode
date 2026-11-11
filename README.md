@@ -28,7 +28,7 @@ For JetBrains IDEs, use [Abyss Theme for JetBrains](https://github.com/jadchene/
 | Item | Value |
 | --- | --- |
 | Minimum VS Code version | `1.80.0` |
-| Extension version | `1.1.8` |
+| Extension version | `1.1.9` |
 | Extension name | `abyss-theme-for-vscode` |
 | Theme picker label | `Abyss Theme for VS Code` |
 | Base UI theme | `vs-dark` |

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.9
+
+- Added a monochrome black-hole ring icon matching Abyss Theme for JetBrains.
+
 ## 1.1.8
 
 - Renamed the extension and theme to Abyss Theme for VS Code.
